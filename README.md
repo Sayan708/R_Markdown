@@ -120,3 +120,5 @@ To run the code without showing input or output, use `include=FALSE`. <br><br>
 - Depending on your internet connection, it may take a while to download due to its size 
 
 ## Conclusion
+
+For more information about R Markdown visit http://rmarkdown.rstudio.com/
